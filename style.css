@@ -11,6 +11,7 @@ header h1{
 
 main h2{
     margin-left: 250px;
+    margin-top: 20px;
 }
 main h3{
     margin-left: 250px;
@@ -18,19 +19,29 @@ main h3{
 main img{
     margin-left: 515px;
     height: 450px;
-    border: 4px solid black;
+    margin-top: 20px;
 }
 main p{
     display: block;
     width: 1400px;
     height: 250px;  
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 250px;
     font-size: 20px;
     text-align: justify;
 }
-
-footer div{
+#card1{
+    display: block;
+    margin-left: 300px;
     float: left;
 }
-
+#card2{
+    float: left;
+    height: 376px;
+    margin-left: 200px;
+}
+#card3{
+    display: block;
+    float: left;
+    margin-left: 200px;
+}
